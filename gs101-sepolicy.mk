@@ -27,6 +27,9 @@ BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/googlebattery
 #   Dauntless (uses Citadel policy currently)
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/citadel
 
+# Input
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/input
+
 #   Wifi
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/wifi_ext
 
