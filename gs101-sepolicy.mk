@@ -1,6 +1,6 @@
 # sepolicy that are shared among devices using whitechapel
 BOARD_SEPOLICY_DIRS += device/google/gs101-sepolicy/whitechapel/vendor/google
-BOARD_SEPOLICY_DIRS += device/google/gs101-sepolicy/lineage
+#BOARD_SEPOLICY_DIRS += device/google/gs101-sepolicy/lineage
 
 # unresolved SELinux error log with bug tracking
 BOARD_SEPOLICY_DIRS += device/google/gs101-sepolicy/tracking_denials
